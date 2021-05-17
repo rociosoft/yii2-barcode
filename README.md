@@ -1,3 +1,5 @@
+forked from iam888/yii2-barcode
+
 create barcode 
 ===============
 use BCGcode
@@ -16,7 +18,7 @@ php composer.phar require --prefer-dist barcode/yii2-barcode "*"
 or add
 
 ```
-"barcode/yii2-barcode": "*"
+"rociosoft/yii2-barcode": "*"
 ```
 
 to the require section of your `composer.json` file.
