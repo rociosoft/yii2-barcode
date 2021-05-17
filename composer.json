@@ -1,13 +1,17 @@
 {
-    "name": "barcode/yii2-barcode",
+    "name": "rociosoft/yii2-barcode",
     "description": "use BCGcode",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension", "php", "barcode"],
     "license": "MIT",
     "authors": [
         {
             "name": "iamiamp",
             "email": "iamiamp@163.com"
+        },
+        {
+            "name": "Yasniel MH",
+            "email": "yasniel@gmail.com"
         }
     ],
     "require": {
